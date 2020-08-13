@@ -13,14 +13,14 @@ I make discord bots.
 
 ## Works
 I have some discord bots:
-⋅⋅* [Meon](https://top.gg/bot/713066005911568424)
-⋅⋅* [Shiba](https://top.gg/bot/718769183885754380)
+* [Meon](https://top.gg/bot/713066005911568424)
+* [Shiba](https://top.gg/bot/718769183885754380)
 
 A mini-game too:
-⋅⋅* https://github.com/MakufonSkifto/getblock
+* https://github.com/MakufonSkifto/getblock
 
 And my website:
-⋅⋅* https://makufonskifto.wtf/
+* https://makufonskifto.wtf/
 
 ## Skill Level
 | Python        | Dart                                        |
