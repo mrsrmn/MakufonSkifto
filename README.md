@@ -2,8 +2,7 @@
 
 My name is MakufonSkifto as you can see
 
-I like Python and Dart.
-I make discord bots.
+I like Python and Dart. I make discord bots.
 
 ## Bio
 
@@ -24,7 +23,7 @@ And my website:
 
 ## Skill Level
 | Python        | Dart                                        |
-| ------------- |:-------------------------------------------:|
+| ------------- |---------------------------------------------|
 | not bad       | knows some little things and still learning |
 
 
