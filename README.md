@@ -21,7 +21,7 @@ A mini-game too:
 And my website:
 * https://makufonskifto.wtf/
 
-You can reach me from my Discord Account Anytime!
+You can reach me by my Discord account anytime!
 * MakufonSkifto#6000
 
 ## Skill Level
