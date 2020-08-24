@@ -21,6 +21,9 @@ A mini-game too:
 And my website:
 * https://makufonskifto.wtf/
 
+You can reach me from my Discord Account Anytime!
+* MakufonSkifto#6000
+
 ## Skill Level
 | Python        | Dart                                        |
 | ------------- |---------------------------------------------|
