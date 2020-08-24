@@ -7,7 +7,7 @@ I like Python and Dart. I make discord bots.
 ## Bio
 
 #### I live somewhere in asia / europe and a 15 y.o kid
-#### I'm only programming for like 5 months
+#### I'm only programming since the beginning of 2020
 #### I want to make Android / iOS apps but I also like using Python
 
 ## Works
