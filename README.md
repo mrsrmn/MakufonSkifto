@@ -26,4 +26,5 @@ And my website:
 | ------------- |---------------------------------------------|
 | not bad       | knows some little things and still learning |
 
+[![MakufonSkifto's github stats](https://github-readme-stats.vercel.app/api?username=makufonskifto)](https://github.com/makufonskifto/github-readme-stats)
 
