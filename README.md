@@ -22,7 +22,7 @@ And my website:
 * https://makufonskifto.wtf/
 
 You can reach me by my Discord account anytime!
-* MakufonSkifto#6000
+* MakufonSkifto#1414
 
 ## Skill Level
 | Python        | Dart                                        |
