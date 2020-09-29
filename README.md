@@ -27,7 +27,7 @@ You can reach me by my Discord account anytime!
 ## Skill Level
 | Python        | Dart                                        |
 | ------------- |---------------------------------------------|
-| not bad       | knows some little things and still learning |
+| not bad       | knows the basics and still learning         |
 
 [![MakufonSkifto's github stats](https://github-readme-stats.vercel.app/api?username=makufonskifto)](https://github.com/makufonskifto/github-readme-stats)
 
