@@ -13,7 +13,6 @@ I like Python and Dart. I make discord bots.
 ## Works
 I have some discord bots:
 * [Meon](https://top.gg/bot/713066005911568424)
-* [Shiba](https://top.gg/bot/718769183885754380)
 * [MOBot](https://github.com/MakufonSkifto/mobot)
 
 A mini-game too:
