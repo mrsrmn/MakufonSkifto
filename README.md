@@ -22,6 +22,9 @@ A mini-game too:
 And my website:
 * https://makufonskifto.wtf/
 
+And finally an API Wrapper:
+* https://github.com/MakufonSkifto/skingrabber
+
 You can reach me by my Discord account anytime!
 * MakufonSkifto#1414
 
