@@ -21,8 +21,9 @@ A mini-game too:
 And my website:
 * https://makufonskifto.wtf/
 
-And finally an API Wrapper:
+And finally 2 API Wrappers:
 * https://github.com/MakufonSkifto/skingrabber
+* https://github.com/MakufonSkifto/corona-python
 
 You can reach me by my Discord account anytime!
 * MakufonSkifto#1414
