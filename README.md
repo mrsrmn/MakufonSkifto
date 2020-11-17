@@ -35,3 +35,5 @@ You can reach me by my Discord account anytime!
 
 [![MakufonSkifto's github stats](https://github-readme-stats.vercel.app/api?username=makufonskifto&theme=gradient)](https://github.com/makufonskifto/github-readme-stats)
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=makufonskifto)](https://github.com/makufonskifto/github-readme-stats)
+
