@@ -34,3 +34,4 @@ You can reach me by my Discord account anytime!
 | not bad       | knows the basics and still learning         | no                   |  
 
 [![MakufonSkifto's github stats](https://github-readme-stats.vercel.app/api?username=makufonskifto)](https://github.com/makufonskifto/github-readme-stats)
+![GitHub metrics](https://metrics.lecoq.io/makufonskifto)  
