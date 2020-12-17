@@ -33,4 +33,4 @@ You can reach me by my Discord account anytime!
 | ------------- |---------------------------------------------|----------------------|
 | not bad       | knows the basics and still learning         | no                   |  
 
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=makufonskifto&count_private=true&show_icons=true&custom_title=my%20trash%20stats%20%F0%9F%98%8E&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=makufonskifto&count_private=true&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
