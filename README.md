@@ -29,8 +29,8 @@ You can reach me by my Discord account anytime!
 * MakufonSkifto#1414
 
 ## Skill Level
-| Python        | Dart                                        | JavaScript           |
-| ------------- |---------------------------------------------|----------------------|
-| not bad       | knows the basics and still learning         | no                   |  
+| Python        | Dart                                        | C#                                  |
+| ------------- |---------------------------------------------|-------------------------------------|
+| not bad       | knows the basics and still learning         | knows the basics and still learning |  
 
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=makufonskifto&count_private=true&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
