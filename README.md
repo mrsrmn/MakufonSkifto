@@ -11,12 +11,8 @@ I like Python and Dart. I make discord bots.
 #### I want to make Android / iOS apps but I also like using Python
 
 ## Works
-I have some discord bots:
+I have some discord bots (most of them are private):
 * [Meon](https://top.gg/bot/713066005911568424)
-* [MOBot](https://github.com/MakufonSkifto/mobot)
-
-A mini-game too:
-* https://github.com/MakufonSkifto/getblock
 
 And my website:
 * https://makufonskifto.wtf/
