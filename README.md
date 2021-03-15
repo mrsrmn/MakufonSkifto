@@ -8,14 +8,13 @@ I like Python and Dart. I make discord bots.
 
 #### I live somewhere in Asia / Europe and a 16 y.o kid. I'm only programming since the beginning of 2020. I am a proficient in Python. I have knowledge in Dart and C# too. I am currently learning how to make web apps with Flask.
 
+My Discord Account:
+* MakufonSkifto#1414
+
 ## Works
 * [Meon](https://top.gg/bot/713066005911568424) Discord Bot
 * https://pypi.org/user/MakufonSkifto My PyPI Profile
 (Most of my works are private)
-
-
-You can reach me by my Discord account anytime!
-* MakufonSkifto#1414
 
 Check my website out too!
 * https://makufonskifto.wtf/
