@@ -6,9 +6,7 @@ I like Python and Dart. I make discord bots.
 
 ## Bio
 
-#### I live somewhere in Asia / Europe and a 15 y.o kid
-#### I'm only programming since the beginning of 2020
-#### I want to make Android / iOS apps but I also like using Python
+#### I live somewhere in Asia / Europe and a 15 y.o kid. I'm only programming since the beginning of 2020. I am a proficient in Python. I am currently learning how to make web apps with Flask.
 
 ## Works
 I have some discord bots (most of them are private):
@@ -25,8 +23,8 @@ You can reach me by my Discord account anytime!
 * MakufonSkifto#1414
 
 ## Skill Level
-| Python        | Dart                                        | C#                                  |
-| ------------- |---------------------------------------------|-------------------------------------|
-| not bad       | knows the basics and still learning         | knows the basics and still learning |  
+| Python        | Dart                                        |
+| ------------- |---------------------------------------------|
+| not bad       | knows the basics and still learning         |
 
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=makufonskifto&count_private=true&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
