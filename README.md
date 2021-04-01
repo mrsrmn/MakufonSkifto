@@ -14,6 +14,7 @@ My Discord Account:
 ## Works
 * [Meon](https://top.gg/bot/713066005911568424) Discord Bot
 * https://pypi.org/user/MakufonSkifto My PyPI Profile
+* [DiscordRP](https://github.com/MakufonSkifto/discordrp) Discord Rich Presence Program
 * And more.. (Most of my works are private)
 
 Check my website out too!
