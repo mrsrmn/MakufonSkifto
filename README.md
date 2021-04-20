@@ -6,7 +6,7 @@ I like Python and Dart. I make discord bots.
 
 ## Bio
 
-#### I live somewhere in Asia / Europe and a 16 y.o kid. I'm only programming since the beginning of 2020. I am a proficient in Python. I have knowledge in Dart and C# too. I am currently learning how to make web apps with Flask.
+#### I live somewhere in Eurasia and a 16 y.o kid. I'm only programming since the beginning of 2020. I am a proficient in Python. I have knowledge in Dart and C# too. I am currently learning how to make web apps with Flask.
 
 You can reach me by my social accounts any time!:
 * MakufonSkifto#1414 Discord Account
