@@ -20,7 +20,7 @@ You can reach me by my social accounts any time!:
 * And more.. (Most of my works are private)
 
 Check my website out too!
-* https://makufonskifto.wtf/
+* https://emirsurmen.com
 
 ## Skill Level
 | Python        | Dart           | C#             |
