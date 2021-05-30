@@ -1,4 +1,4 @@
-### I am currently looking for a team to work with on iOS or Android apps using Flutter. DM me through Discord if you are interested.
+#### I am currently looking for a team to work with on iOS or Android apps using Flutter. DM me through Discord or LinkedIn if you are interested.
 
 # Hello
 
