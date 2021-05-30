@@ -1,3 +1,5 @@
+# I am currently looking for a team to work with on iOS or Android apps using Flutter. DM me through Discord if you are interested.
+
 # Hello
 
 My name is MakufonSkifto as you can see
