@@ -19,7 +19,7 @@ You can reach me by my social accounts any time!:
 * [Meon](https://top.gg/bot/713066005911568424) Discord Bot
 * https://pypi.org/user/MakufonSkifto My PyPI Profile
 * [DiscordRP](https://github.com/MakufonSkifto/discordrp) Discord Rich Presence Program
-* [View MET](https://github.com/MakufonSkifto/view_met) An Android app made with Flutter for looking at MET Museum Pieces
+* [View MET](https://github.com/MakufonSkifto/view_met) An Android and iOS app made with Flutter for looking at MET Museum Pieces
 * And more.. (Most of my works are private)
 
 Check my website out too!
