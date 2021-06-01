@@ -26,7 +26,7 @@ Check my website out too!
 * https://emirsurmen.com
 
 ## Skill Level
-| Python        | Dart           | C#             | Kotlin         |
+| Python        | Dart / Flutter | C#             | Kotlin         |
 | ------------- |----------------|----------------|----------------|
 | Proficient    | Intermediate   | Beginner       | Beginner       |
 
