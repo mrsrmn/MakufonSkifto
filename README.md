@@ -1,5 +1,7 @@
 ### I am currently looking for a team to work with on iOS or Android apps using Flutter. DM me through Discord or LinkedIn if you are interested.
 
+![visitor badge](https://visitor-badge.glitch.me/badge?page_id=makufonskifto.visitor-badge)
+
 # Hello
 
 My name is MakufonSkifto as you can see
