@@ -10,7 +10,7 @@ I like Python and Dart. I make mobile apps.
 
 ## Bio
 
-#### Hi, I am Emir, I'm a non-binary person living in Istanbul, Turkey. I enjoy programming in my spare time. I know 3 languages; Dart, Python and C#. I am a proficient in Python. I am currently working on Flask (Python) web apps and Flutter (Dart) Android / iOS application. I am also learning Kotlin
+#### Hi, I am Emir, I'm living in Istanbul, Turkey. I enjoy programming in my spare time. I know 3 languages; Dart, Python and C#. I am a proficient in Python. I am currently working on Flask (Python) web apps and Flutter (Dart) Android / iOS application. I am also learning Kotlin
 
 You can reach me by my social accounts any time:
 * MakufonSkifto#1414 Discord Account
