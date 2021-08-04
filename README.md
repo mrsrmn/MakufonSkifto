@@ -1,16 +1,8 @@
-### I am currently looking for a team to work with on iOS or Android apps using Flutter. DM me through Discord or LinkedIn if you are interested.
-
 ![visitor badge](https://visitor-badge.glitch.me/badge?page_id=makufonskifto.visitor-badge)
-
-# Hello
-
-My name is MakufonSkifto as you can see
-
-I like Python and Dart. I make mobile apps.
 
 ## Bio
 
-#### Hi, I am Emir, I'm living in Istanbul, Turkey. I enjoy programming in my spare time. I know 4 languages; Dart, Python, C# and Kotlin. I am a proficient in Python. I am currently working on Flask (Python) web apps and Flutter (Dart) Android / iOS application. I am also learning Kotlin
+#### Hi, I am Emir, I'm living in Istanbul, Turkey. I'm a fully self-taught programmer. I know 4 languages; Dart, Python, C# and Kotlin. I am a proficient in Python and Flutter. I am currently working on mobile apps.
 
 You can reach me by my social accounts any time:
 * MakufonSkifto#1414 Discord Account
