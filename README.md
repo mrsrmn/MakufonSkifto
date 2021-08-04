@@ -2,7 +2,7 @@
 
 ## Bio
 
-#### Hi, I am Emir, I'm living in Istanbul, Turkey. I'm a fully self-taught programmer. I know 4 languages; Dart, Python, C# and Kotlin. I am a proficient in Python and Flutter. I am currently working on mobile apps.
+#### Hi, I am Emir, I am 16 and I'm living in Istanbul, Turkey. I'm a fully self-taught programmer. I know 4 languages; Dart, Python, C# and Kotlin. I am a proficient in Python and Flutter. I am currently working on mobile apps.
 
 You can reach me by my social accounts any time:
 * MakufonSkifto#1414 Discord Account
