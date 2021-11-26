@@ -49,5 +49,5 @@ Check my website out too!
 
 ![Stats](https://github-readme-stats.vercel.app/api?username=makufonskifto&count_private=true&show_icons=true&theme=dark)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=makufonskifto&hide=javascript,html,tex&count_private=true&theme=dark)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=makufonskifto&hide=javascript,html,tex,css,csharp&count_private=true&theme=dark)
 
