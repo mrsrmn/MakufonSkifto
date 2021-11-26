@@ -31,8 +31,9 @@ Check my website out too!
 ## Software and Tools
 
 <a href="#"><img alt="Git" src="https://img.shields.io/badge/Git%20-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white"></a>
-<a href="#"><img alt="PyCharm" src="https://img.shields.io/badge/PyCharm-143?style=for-the-badge&logo=PyCharm&logoColor=black&color=green&labelColor=green"></a>
-<a href="#"><img alt="Intellij" src="https://img.shields.io/badge/IntelliJ&nbsp;IDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white"></a>
+<a href="#"><img alt="PyCharm" src="https://img.shields.io/badge/PyCharm-143?style=for-the-badge&logo=PyCharm&logoColor=white&color=green&labelColor=green"></a>
+<a href="#"><img alt="Intellij" src="https://img.shields.io/badge/IntelliJ&nbsp;IDEA-fe315d.svg?style=for-the-badge&logo=intellij-idea&logoColor=white"></a>
+<a href="#"><img alt="Intellij" src="https://img.shields.io/badge/Android&nbsp;Studio-669933.svg?style=for-the-badge&logo=android-studio&logoColor=white"></a>
 
 
 ## Databases and Cloud hosting
@@ -46,7 +47,7 @@ Check my website out too!
 | ------------- |----------------|----------------| ----------------|
 | Proficient    | Proficient     | Intermediate   | Beginner        |
 
-[![Stats](https://github-readme-stats.vercel.app/api?username=makufonskifto&count_private=true&show_icons=true&theme=dark)](#)
+![Stats](https://github-readme-stats.vercel.app/api?username=makufonskifto&count_private=true&show_icons=true&theme=dark)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=makufonskifto&hide=javascript,html,tex,css,cpp&count_private=true&theme=dark)](#)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=makufonskifto&hide=javascript,html,tex,css,cpp&count_private=true&theme=dark)
 
