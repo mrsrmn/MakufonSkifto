@@ -14,6 +14,7 @@ You can reach me by my social accounts any time:
 * https://pypi.org/user/MakufonSkifto My PyPI Profile
 * [DiscordRP](https://github.com/MakufonSkifto/discordrp) Discord Rich Presence Program
 * [View MET](https://github.com/MakufonSkifto/view_met) An Android and iOS app made with Flutter for looking at MET Museum Pieces
+* [Harmony](https://github.com/The-Coding-Misfits/harmony) Share hiking places around you
 * And more.. (Most of my works are private)
 
 Check my website out too!
