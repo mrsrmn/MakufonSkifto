@@ -34,6 +34,7 @@ Check my website out too!
 ![PyCharm](https://img.shields.io/badge/PyCharm-143?style=for-the-badge&logo=PyCharm&logoColor=white&color=green&labelColor=green)
 ![Intellij Idea](https://img.shields.io/badge/IntelliJ&nbsp;IDEA-fe315d.svg?style=for-the-badge&logo=intellij-idea&logoColor=white)
 ![Android Studio](https://img.shields.io/badge/Android&nbsp;Studio-669933.svg?style=for-the-badge&logo=android-studio&logoColor=white)
+![Atom](https://img.shields.io/badge/Atom-90b061.svg?style=for-the-badge&logo=atom&logoColor=white)
 
 
 ## Databases and Cloud hosting
