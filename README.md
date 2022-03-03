@@ -9,17 +9,6 @@ You can reach me by my social accounts any time:
 * [Stack Overflow Account](https://stackoverflow.com/users/12920146/emir-s%c3%bcrmen)
 * [LinkedIn Account](https://www.linkedin.com/in/emir-surmen/)
 
-## Works
-* [Meon](https://top.gg/bot/713066005911568424) Discord Bot
-* https://pypi.org/user/MakufonSkifto My PyPI Profile
-* [DiscordRP](https://github.com/MakufonSkifto/discordrp) Discord Rich Presence Program
-* [View MET](https://github.com/MakufonSkifto/view_met_remade) An Android and iOS app made with Flutter for looking at MET Museum Pieces
-* [Harmony](https://github.com/The-Coding-Misfits/harmony) Share hiking places around you
-* And more.. (Most of my works are private)
-
-Check my website out too!
-* https://emirsurmen.com
-
 ## Languages and Frameworks
 
 ![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
@@ -27,6 +16,7 @@ Check my website out too!
 ![Swift](https://img.shields.io/badge/Swift-FA7343?style=for-the-badge&logo=swift&logoColor=white)
 ![Kotlin](https://img.shields.io/badge/Kotlin-664ACC?&style=for-the-badge&logo=kotlin&logoColor=white)
 ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
 
 ## Software and Tools
 
@@ -43,10 +33,6 @@ Check my website out too!
 ![SQLite](https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white)
 
 ## Stats
-
-| Python        | Dart / Flutter | Kotlin         | Swift           |
-| ------------- |----------------|----------------| ----------------|
-| Proficient    | Proficient     | Intermediate   | Beginner        |
 
 ![Stats](https://github-readme-stats.vercel.app/api?username=makufonskifto&count_private=true&show_icons=true&theme=dark)
 
