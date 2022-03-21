@@ -38,3 +38,5 @@ You can reach me by my social accounts any time:
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=makufonskifto&hide=javascript,html,tex,css,csharp&count_private=true&theme=dark)
 
+![Contributions](https://github-readme-streak-stats.herokuapp.com/?user=MakufonSkifto&theme=dark)
+
