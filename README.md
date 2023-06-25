@@ -1,4 +1,4 @@
-### Hi, I am Emir, I am 17 and I'm living in Istanbul, Turkey. I'm a fully self-taught programmer. I know 4 languages; Dart, Python, Swift and Kotlin. I am a proficient in Python and Flutter. I am currently working on mobile apps.
+### Hi, I am Emir, I am 18 and I'm living in Istanbul, Turkey. I'm a fully self-taught programmer. I know 4 languages; Dart, Python, Swift and Kotlin. I am a proficient in Python and Flutter. I am currently working on mobile apps.
 
 You can reach me by my social accounts any time:
 * makus#1414 Discord Account
