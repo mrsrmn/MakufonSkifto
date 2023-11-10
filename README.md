@@ -10,7 +10,6 @@ You can reach me by my social accounts any time:
 ![Swift](https://img.shields.io/badge/Swift-FA7343?style=for-the-badge&logo=swift&logoColor=white)
 ![Kotlin](https://img.shields.io/badge/Kotlin-664ACC?&style=for-the-badge&logo=kotlin&logoColor=white)
 ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
 
 ## Software and Tools
 
@@ -18,4 +17,3 @@ You can reach me by my social accounts any time:
 ![PyCharm](https://img.shields.io/badge/PyCharm-143?style=for-the-badge&logo=PyCharm&logoColor=white&color=green&labelColor=green)
 ![Intellij Idea](https://img.shields.io/badge/IntelliJ&nbsp;IDEA-fe315d.svg?style=for-the-badge&logo=intellij-idea&logoColor=white)
 ![Android Studio](https://img.shields.io/badge/Android&nbsp;Studio-669933.svg?style=for-the-badge&logo=android-studio&logoColor=white)
-![Atom](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visualstudiocode&logoColor=white)
